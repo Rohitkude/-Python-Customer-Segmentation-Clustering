@@ -1,11 +1,11 @@
 Mall Customer Segmentation with K-Means
-📌 Project Overview
+Project Overview
 
 This project demonstrates a complete customer segmentation analysis for a mall’s client base using unsupervised machine learning (K-Means clustering). The goal is to identify distinct customer groups based on their annual income and spending habits, and to derive actionable insights for targeted marketing strategies.
 
 The methodology is inspired by the teachings of Gaelim Holland, a Senior Data Analyst with over 10 years of experience and founder of AbsentData, a trusted platform for aspiring data analysts.
 
-🎯 Objectives
+Objectives
 
 Perform Univariate, Bivariate, and Multivariate Analysis on mall customer data.
 
@@ -15,7 +15,7 @@ Summarize and interpret each cluster using descriptive statistics.
 
 Recommend the best marketing group for business strategy.
 
-📊 Dataset
+Dataset
 
 File: Mall_Customers.csv
 
@@ -31,7 +31,7 @@ Annual Income (k$) – Income in thousands of dollars
 
 Spending Score (1–100) – Score assigned by the mall based on spending behavior
 
-⚙️ Technical Workflow
+Technical Workflow
 
 Data Loading & Exploration
 
@@ -69,7 +69,7 @@ Identify the most valuable segments
 
 Suggest marketing strategies for each cluster
 
-✅ Key Results
+Key Results
 
 The analysis revealed 5 customer segments:
 
